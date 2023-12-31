@@ -6,4 +6,5 @@
 // invoices.push(invo1);
 // invoices.push(invo2);
 // console.log(invoices[0].format());
-const testArry;
+const anchor = document.querySelector("a");
+console.log(anchor.innerText);
